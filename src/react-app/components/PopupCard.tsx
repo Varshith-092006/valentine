@@ -51,7 +51,7 @@ export default function PopupCard({ onComplete }: PopupCardProps) {
                 onClick={handleHaClick}
                 className="w-full h-14 text-xl font-bold bg-gradient-to-r from-red-400 to-pink-500 hover:from-red-500 hover:to-pink-600 text-white shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
               >
-                ha
+                ha😒
               </Button>
               <Button
                 onClick={handleYesHimaClick}
@@ -80,7 +80,7 @@ export default function PopupCard({ onComplete }: PopupCardProps) {
         <div className="absolute inset-0 flex items-center overflow-hidden">
           <div className="animate-train-move whitespace-nowrap">
             <span className="text-8xl font-bold text-pink-600 drop-shadow-[0_0_20px_rgba(236,72,153,0.5)]">
-              heheheh
+              heeeee
             </span>
           </div>
         </div>
